@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Junior Developer | Web & Mobile Applications
+Ionic · Angular · Node · SQL · PostgreSQL
 <!--
 **SamuelOsp/SamuelOsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
