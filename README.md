@@ -1,7 +1,7 @@
 # Samuel David Ospina de Avila
 
 Junior Developer | Web & Mobile Applications  
-Ionic · Angular · Node.js · SQL · PostgreSQL  
+React · Next.js · Ionic · Angular · Node.js · SQL · PostgreSQL  
 
 Cartagena, Colombia  
 English: B2 Conversational  
@@ -30,6 +30,8 @@ Focused on building scalable systems, clean architecture, and well-structured AP
 ### Frontend / Mobile
 - Ionic
 - Angular
+- React
+- Next.js
 - TypeScript
 - Capacitor
 - Responsive UI Design
