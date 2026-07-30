@@ -35,7 +35,11 @@ Focused on building scalable systems, clean architecture, and well-structured AP
 - TypeScript
 - Capacitor
 - Responsive UI Design
+- 
+### DevOps & Infrastructure
+- AWS
 
+  
 ### Databases
 - PostgreSQL
 - MySQL
@@ -49,6 +53,14 @@ Focused on building scalable systems, clean architecture, and well-structured AP
 - SQL Query Optimization
 - API Integration
 - Collaborative Development
+
+---
+
+### Currently Working On
+- ##### Soluzia Knowation Consulting s.a.s:
+- Full-stack system (React/Next.js + Node.js + PostgreSQL)
+- AWS certification and cloud infrastructure
+- Building production-grade forms and scalable systems
 
 ---
 
